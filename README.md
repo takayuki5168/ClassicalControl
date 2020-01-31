@@ -12,6 +12,7 @@ $ cd ClassicalControl
 $ mkdir build; cmake ..; make
 $ ../script/run.sh
 ```
+![Output](https://github.com/takayuki5168/ClassicalControl/blob/master/img/output.png)
 
 ## Implementation
 ### Plants
